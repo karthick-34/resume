@@ -1,0 +1,207 @@
+body {
+    text-align: center;
+    padding-top: 100px;
+    background-color: antiquewhite;
+    
+}
+.sriram {
+    position: relative;
+    bottom: 100px;
+    right: 350px;
+    font-family: 'Handlee', cursive;
+    font-size: 45px;
+    display: inline-block;
+}
+#about {
+    position: relative;
+    bottom: 100px;
+    left: 300px;
+    font-size: 30px;
+    display: inline;
+}
+#skill {
+    position: relative;
+    bottom: 100px;
+    left: 330px;
+    font-size: 30px;
+    display: inline;
+}
+#contact {
+    position: relative;
+    bottom: 100px;
+    left: 360px;
+    font-size: 30px;
+    display: inline;
+}
+#iam {
+    position: relative;
+    bottom: 100px;
+    padding-left: 900px;
+    font-size: 70px;
+    font-family: 'Sacramento', cursive;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+#web {
+    position: relative;
+    bottom: 100px;
+    padding-left: 900px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 70px;
+    font-family: 'Nova Cut', cursive;
+    font-size: 30px;
+}
+.oneimg {
+    position: absolute;
+    bottom: 40px;
+    left: 100px;
+    padding: 0px;
+}
+#md {
+    margin-top: 400px;
+}
+#hello {
+
+}
+#iamweb {
+    font-size: 25px;
+    color: #6096B4;
+    margin-bottom: 0px;
+    font-family: 'Kalam', cursive;
+}
+#ihave {
+    font-size: 25px;
+    color: #6096B4;
+    margin-top: 0;
+    font-family: 'Kalam', cursive;
+}
+hr {
+    border-style: none;
+    border-top: dotted;
+    width:7%;
+    border-width: 5px;
+    border-color: grey;
+}
+#sk {
+    font-size: 45px;
+}
+#des {
+    position: relative;
+    right: 400px;
+    font-size: 35px
+}
+#ilike {
+    position: relative;
+    right: 400px;
+    font-size: 25px;
+    color: #6096B4;
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-family: 'Kalam', cursive;
+}
+#typo {
+    position: relative;
+    right: 400px;
+    font-size: 25px;
+    color: #6096B4;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Kalam', cursive;
+}
+#you {
+    position: relative;
+    right: 400px;
+    font-size: 25px;
+    color: #6096B4;
+    margin-top: 0;
+    font-family: 'Kalam', cursive;
+}
+.imgtwo {
+    position: absolute;
+    top: 1450px;
+    display: inline-block;
+    margin-bottom: 00px;
+}
+#hr {
+    margin-top: 100px;
+}
+#dev {
+    padding-left: 700px;
+    position: relative;
+    top: 30px;
+    font-size: 35px;
+    padding-bottom: 30px;
+}
+#iama {
+    padding-left: 700px;
+    margin-bottom: 0;
+    position: relative;
+    font-size: 25px;
+    color: #6096B4;
+    font-family: 'Kalam', cursive;
+}
+#tor {
+    padding-left: 700px;
+    position: relative;
+    font-size: 25px;
+    color: #6096B4;
+    font-family: 'Kalam', cursive;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#tech {
+    padding-left: 700px;
+    position: relative;
+    font-size: 25px;
+    color: #6096B4;
+    font-family: 'Kalam', cursive;
+    margin-top: 0;
+}
+.imgth {
+    position: absolute;
+    left: 250px;
+    padding: 0px;
+    top: 1900px;
+}
+.hf {
+    margin-top: 100px;
+}
+#ican {
+    position: relative;
+    font-size: 45px;
+}
+#iamc {
+    color: #6096B4;
+    font-size: 25px;
+}
+#if {
+    color: #6096B4;
+    font-size: 25px;
+}
+#with {
+    color: #6096B4;
+    font-size: 25px;
+}
+.h4 {
+    margin-top: 50px;
+}
+.bottom {
+    margin-top: 50px;
+}
+.box {
+    background-color: lightgrey;
+    width: 400px;
+    border: 2px;
+    padding: 5px;
+    margin: 0;
+    position: relative;
+    left: 950px;
+    bottom: 100px;
+    font-size: 30px;
+    font-family: 'Merriweather', serif;
+}
+.middle-container {
+    background-color: #EEE9DA;
+}
